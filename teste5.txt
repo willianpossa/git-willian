@@ -1,0 +1,2 @@
+Este arquivo esta sendo criado somente aqui no git-willian, e precisa ser movido para o diretório /aulagit
+
